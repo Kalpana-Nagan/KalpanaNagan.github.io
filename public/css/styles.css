@@ -30,6 +30,10 @@ html,body,h1,h2,h3,h4,h5,h6 {
     left: 4px;
 }
 
+.btn-info{
+    background-color: #4F9F31 !important;
+}
+
 .box {
 	box-shadow: 0px 0px 10px 0px #ddd;
 }
