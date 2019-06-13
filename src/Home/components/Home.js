@@ -82,7 +82,7 @@ class Home extends Component {
                         <h2 className="header1 p-3"><i className="fa fa-suitcase fa-fw mr-3 text-info"></i>Work Experience</h2>
                         <div className="container">
                             <h5 className="header1"><b>Full Stack Developer / CGI</b></h5>
-                            <h6 className="text-info"><i className="fa fa-calendar fa-fw mr-3"></i>Mar 2015 - <span className="badge bg-info text-light">Jun 2018</span></h6>
+                            <h6 className="text-info"><i className="fa fa-calendar fa-fw mr-3"></i>Mar 2015 - Jun 2018</h6>
                             <p>As a full stack developer, worked on various projects using Javascrip libraries and Java</p>
                             <hr/>
                         </div>
@@ -90,6 +90,11 @@ class Home extends Component {
                             <h5 className="header1"><b>Frontend web devloper / Robert Bosch</b></h5>
                             <h6 className="text-info"><i className="fa fa-calendar fa-fw mr-3"></i>Jul 2018 - Nov 2018</h6>
                             <p>As a Frontend web developer, developed responsive web applications.</p>
+                        </div>
+ <div className="container mb-4">
+                            <h5 className="header1"><b>Freelance web devloper</b></h5>
+                            <h6 className="text-info"><i className="fa fa-calendar fa-fw mr-3"></i>Nov 2019 - Present</h6>
+                            <p>As a web developer, developed responsive web applications.</p>
                         </div>
                     </div>
 
