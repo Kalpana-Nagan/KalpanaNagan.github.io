@@ -94,7 +94,7 @@ class Home extends Component {
  <div className="container mb-4">
                             <h5 className="header1"><b>Freelance web devloper</b></h5>
                             <h6 className="text-info"><i className="fa fa-calendar fa-fw mr-3"></i>Nov 2019 - Present</h6>
-                            <p>As a web developer, developed responsive web applications.</p>
+                            <p>Doing freelance projects to be upto date in the market</p>
                         </div>
                     </div>
 
