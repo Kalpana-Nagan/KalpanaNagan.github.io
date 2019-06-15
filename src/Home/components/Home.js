@@ -83,18 +83,18 @@ class Home extends Component {
                         <div className="container">
                             <h5 className="header1"><b>Full Stack Developer / CGI</b></h5>
                             <h6 className="text-info"><i className="fa fa-calendar fa-fw mr-3"></i>Mar 2015 - Jun 2018</h6>
-                            <p>As a full stack developer, worked on various projects using Javascrip libraries and Java</p>
+                            <p>As a full stack developer, worked on various projects for BELL Canada Client, using Javascrip libraries like React,Redux,BackboneJS,NodeJS and have hands on Experience in Java </p>
                             <hr/>
                         </div>
                         <div className="container mb-4">
                             <h5 className="header1"><b>Frontend web devloper / Robert Bosch</b></h5>
                             <h6 className="text-info"><i className="fa fa-calendar fa-fw mr-3"></i>Jul 2018 - Nov 2018</h6>
-                            <p>As a Frontend web developer, developed responsive web applications.</p>
+                            <p>As a Senior Frontend developer, developed responsive web application for Client Daimler,Germany.</p>
                         </div>
  <div className="container mb-4">
                             <h5 className="header1"><b>Freelance web devloper</b></h5>
                             <h6 className="text-info"><i className="fa fa-calendar fa-fw mr-3"></i>Nov 2019 - Present</h6>
-                            <p>Doing freelance projects to be upto date in the market</p>
+                            <p>As web development is my passion,Doing freelance projects to be upto date in the market.</p>
                         </div>
                     </div>
 
@@ -103,7 +103,7 @@ class Home extends Component {
                         <div className="container">
                             <h5 className="header1"><b>SSLC</b></h5>
                             <h6 className="text-info"><i className="fas fa-calendar fa-fw mr-3"></i>2006 - 2007</h6>
-                            <p>Shastry High School, Hunsur</p>
+                            <p>Shastry High School, Mysore</p>
                             <hr/>
                         </div>
                         <div className="container mb-4">
@@ -115,7 +115,7 @@ class Home extends Component {
                         <div className="container mb-4">
                             <h5 className="header1"><b>Bachelor of Engineering</b></h5>
                             <h6 className="text-info"><i className="fa fa-calendar fa-fw mr-3"></i>2009 - 2013</h6>
-                            <p>BGS institute of technology, Mysuru</p>
+                            <p>BGS institute of technology, Mandya</p>
                         </div>
                     </div>
 
