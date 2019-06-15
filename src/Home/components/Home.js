@@ -89,7 +89,7 @@ class Home extends Component {
                         <div className="container mb-4">
                             <h5 className="header1"><b>Frontend web devloper / Robert Bosch</b></h5>
                             <h6 className="text-info"><i className="fa fa-calendar fa-fw mr-3"></i>Jul 2018 - Nov 2018</h6>
-                            <p>As a Senior Frontend developer, developed responsive web application for Client Daimler,Germany.</p>
+                            <p>As a Senior Frontend developer,developed responsive web application for Client Daimler,Germany.</p>
                         </div>
  <div className="container mb-4">
                             <h5 className="header1"><b>Freelance web devloper</b></h5>
